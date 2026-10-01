@@ -1,0 +1,33 @@
+Variable,Category,n,Percent
+"Género","Mujer",44,48.9
+"Género","Hombre",46,51.1
+"Nivel de Estudios","Bajo",9,10.0
+"Nivel de Estudios","Medio",39,43.3
+"Nivel de Estudios","Alto",42,46.7
+"Situación Laboral","Desempleado(a)",11,12.2
+"Situación Laboral","Estudiante",24,26.7
+"Situación Laboral","Trabajo por cuenta ajena",43,47.8
+"Situación Laboral","Trabajo por cuenta propia / autónomo(a)",11,12.2
+"Situación Laboral","Jubilado(a)",1,1.1
+"Tamaño de la empresa","1-9",19,21.1
+"Tamaño de la empresa","10-49",11,12.2
+"Tamaño de la empresa","50-249",7,7.8
+"Tamaño de la empresa","250+",17,18.9
+"Tamaño de la empresa","No aplica",36,40.0
+"Jornada Laboral","Regular",36,40.0
+"Jornada Laboral","Irregular",21,23.3
+"Jornada Laboral","No aplica",33,36.7
+"Situación Económica","Muy ajustada",10,11.1
+"Situación Económica","Ajustada",34,37.8
+"Situación Económica","Suficiente",37,41.1
+"Situación Económica","Cómoda",9,10.0
+"Lugar de Residencia","Zona rural",12,13.3
+"Lugar de Residencia","Localidad pequeña / semirrural",37,41.1
+"Lugar de Residencia","Ciudad mediana",22,24.4
+"Lugar de Residencia","Gran ciudad / área metropolitana",19,21.1
+"Responsabilidad en tareas de cuidado","Sin responsabilidad",62,68.9
+"Responsabilidad en tareas de cuidado","Baja",16,17.8
+"Responsabilidad en tareas de cuidado","Alta",12,13.3
+"Nivel de apoyo percibido","Bajo",21,23.3
+"Nivel de apoyo percibido","Moderado",34,37.8
+"Nivel de apoyo percibido","Alto",35,38.9

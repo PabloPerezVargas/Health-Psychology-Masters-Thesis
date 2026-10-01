@@ -1,0 +1,43 @@
+Variable,Category,Cluster 1 (n=40),Cluster 2 (n=50),Sig. (p)
+"Edad (Media, DT)","Media (DT)","29.95 (10.09)","27.34 (7.69)",0.181
+"Género","","","",0.199
+"Género","Mujer","23 (57.5%)","21 (42.0%)",""
+"Género","Hombre","17 (42.5%)","29 (58.0%)",""
+"Nivel de Estudios","","","",0.520
+"Nivel de Estudios","Bajo","5 (12.5%)","4 (8.0%)",""
+"Nivel de Estudios","Medio","19 (47.5%)","20 (40.0%)",""
+"Nivel de Estudios","Alto","16 (40.0%)","26 (52.0%)",""
+"Situación Laboral","","","",0.466
+"Situación Laboral","Desempleado(a)","7 (17.5%)","4 (8.0%)",""
+"Situación Laboral","Estudiante","12 (30.0%)","12 (24.0%)",""
+"Situación Laboral","Trabajo por cuenta ajena","16 (40.0%)","27 (54.0%)",""
+"Situación Laboral","Trabajo por cuenta propia / autónomo(a)","5 (12.5%)","6 (12.0%)",""
+"Situación Laboral","Jubilado(a)","0 (0.0%)","1 (2.0%)",""
+"Tamaño de la Empresa","","","",0.057
+"Tamaño de la Empresa","1-9","11 (27.5%)","8 (16.0%)",""
+"Tamaño de la Empresa","10-49","2 (5.0%)","9 (18.0%)",""
+"Tamaño de la Empresa","50-249","3 (7.5%)","4 (8.0%)",""
+"Tamaño de la Empresa","250+","4 (10.0%)","13 (26.0%)",""
+"Tamaño de la Empresa","No aplica","20 (50.0%)","16 (32.0%)",""
+"Jornada Laboral","","","",0.025
+"Jornada Laboral","Regular","10 (25.0%)","26 (52.0%)",""
+"Jornada Laboral","Irregular","13 (32.5%)","8 (16.0%)",""
+"Jornada Laboral","No aplica","17 (42.5%)","16 (32.0%)",""
+"Situación Económica","","","",0.114
+"Situación Económica","Muy ajustada","6 (15.0%)","4 (8.0%)",""
+"Situación Económica","Ajustada","19 (47.5%)","15 (30.0%)",""
+"Situación Económica","Suficiente","11 (27.5%)","26 (52.0%)",""
+"Situación Económica","Cómoda","4 (10.0%)","5 (10.0%)",""
+"Lugar de Residencia","","","",0.595
+"Lugar de Residencia","Zona rural","4 (10.0%)","8 (16.0%)",""
+"Lugar de Residencia","Localidad pequeña / semirrural","17 (42.5%)","20 (40.0%)",""
+"Lugar de Residencia","Ciudad mediana","12 (30.0%)","10 (20.0%)",""
+"Lugar de Residencia","Gran ciudad / área metropolitana","7 (17.5%)","12 (24.0%)",""
+"Tareas de Cuidado","","","",0.697
+"Tareas de Cuidado","Sin responsabilidad","28 (70.0%)","34 (68.0%)",""
+"Tareas de Cuidado","Baja","8 (20.0%)","8 (16.0%)",""
+"Tareas de Cuidado","Alta","4 (10.0%)","8 (16.0%)",""
+"Apoyo Social Percibido","","","",0.009
+"Apoyo Social Percibido","Bajo","15 (37.5%)","6 (12.0%)",""
+"Apoyo Social Percibido","Moderado","15 (37.5%)","19 (38.0%)",""
+"Apoyo Social Percibido","Alto","10 (25.0%)","25 (50.0%)",""
