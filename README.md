@@ -1,6 +1,4 @@
-# Trauma del desarrollo como predictor transdiagnóstico de psicopatología: un análisis multivariante
-
-**Developmental trauma as a transdiagnostic predictor of psychopathology: a multivariate analysis**
+# Developmental trauma as a transdiagnostic predictor of psychopathology: a multivariate analysis
 
 Master's Thesis in Health Psychology — Universidad Internacional de La Rioja
 
